@@ -34,7 +34,6 @@
 	    background-repeat: no-repeat;
 	    background-size: cover;
 	    animation: copycat 10s forwards ease-out;
-		opacity: 0.5;
 	}
 	body.homepage section {
 
